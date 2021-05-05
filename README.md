@@ -18,7 +18,7 @@ After working with the Colorado Board of Elections on an audit of their election
 - Denver, 306,055 votes, 82.8% of total votes
 - Arapahoe, 24,801 votes, 6.7% of total votes
 
-3. County with largest number of votes?
+3. County with largest number of votes:
 
 - Denver
 
