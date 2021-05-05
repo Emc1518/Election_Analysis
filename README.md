@@ -22,7 +22,7 @@ After working with Tom and Seth on an audit of their elections.. I have been ask
 
 - Denver
 
-4. Number of votes and percentage oftotal votes each candidate:
+4. Number of votes and percentage of total votes for each candidate:
 - Charles Casper Stockham, 85,213 votes, 23.0% of total votes
 - Diana DeGette, 272,892 votes, 73.8% of total votes
 - Raymon Anthony Doane, 11,606 votes, 3.1% of votes
