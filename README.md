@@ -39,4 +39,4 @@ After working with the Colorado Board of Elections on an audit of their election
 
 ## **Summary** 
 
-This script can be used universally for future elections and voting by simply making a few modifications. It can be used for larger, Federal elections by substituting States for Counties. It can also used for smaller-scale town hall meetings, where there is only a yea or nay vote. To do accomplish this the "yea or nay" should be used in place of the "candidates".
+This script can be used universally for future elections and voting by simply making a few modifications. It can be used for larger, federal elections by substituting States for Counties. It can also used for smaller-scale town hall meetings, where there is only a yea or nay vote. To accomplish this "yea or nay" should be used in place of the "candidates".
