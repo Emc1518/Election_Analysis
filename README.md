@@ -1,6 +1,6 @@
 # Election_Analysis
 ## **Overview**
-After working with Tom and Seth on an audit of their elections.. I have been asked by the commission to provide the following additional information
+After working with the Colorado Board of Elections on an audit of their elections they have I have been to provide the following additional information
 
 1. The voter turnout for each county
 2. The percentage of votes from each county out of the total count
@@ -39,4 +39,4 @@ After working with Tom and Seth on an audit of their elections.. I have been ask
 
 ## **Summary** 
 
-n a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+This script can be used universally for future elections and voting by simply making a few modifications. It can be used for larger, Federal elections by substituting States for Counties. It can also used for smaller-scale town hall meetings, where there is only a yea or nay vote. To do accomplish this the "yea or nay" should be used in place of the "candidates".
