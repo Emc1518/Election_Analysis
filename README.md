@@ -8,6 +8,8 @@ After working with the Colorado Board of Elections on an audit of their election
 
 ## **Results**
 
+https://github.com/Emc1518/Election_Analysis/blob/16dd9ec0d977d3b9ce636bb1067cdfe9373e962b/election_analysis.txt
+
 1. Total votes cast in this congressional election:
 
 - 369,711
