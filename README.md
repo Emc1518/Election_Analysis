@@ -41,4 +41,6 @@ https://github.com/Emc1518/Election_Analysis/blob/16dd9ec0d977d3b9ce636bb1067cdf
 
 ## **Summary** 
 
+https://github.com/Emc1518/Election_Analysis/blob/e238fe6fb16ecb118cc035a6d146956d15427248/PyPoll_Challenge.py
+
 This script can be used universally for future elections and voting by simply making a few modifications. It can be used for larger, federal elections by substituting States for Counties. It can also used for smaller-scale town hall meetings, where there is only a yea or nay vote. To accomplish this "yea or nay" should be used in place of the "candidates".
