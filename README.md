@@ -1,6 +1,6 @@
 # Election_Analysis
 ## **Overview**
-After working with the Colorado Board of Elections on an audit of their elections they have I have been to provide the following additional information
+After working with the Colorado Board of Elections on an audit of their elections, I have been to provide the following additional information
 
 1. The voter turnout for each county
 2. The percentage of votes from each county out of the total count
